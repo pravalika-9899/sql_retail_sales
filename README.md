@@ -89,7 +89,7 @@ Includes various queries like:
    - Open MySQL Workbench or CLI.
    - Run:
      ```sql
-     SOURCE path_to_your_file/sql_project_2_cleaned.sql;
+     SOURCE path_to_your_file/sql_project_2.sql;
      ```
 
 3. **Run Queries**
